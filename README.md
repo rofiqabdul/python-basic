@@ -97,7 +97,7 @@ Sisa piring = 528 buah
 
 ### Latihan 10
 
-Diinputkan bilangan bulat, jika bilangan 1-3 cetak awal, jika 4-6 cetak tangah, jika 7 keatas cetak akhir.
+Diinputkan bilangan bulat, jika bilangan 1-3 cetak awal, jika 4-6 cetak tengah, jika 7 keatas cetak akhir.
 
 ### Latihan 11
 
