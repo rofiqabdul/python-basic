@@ -265,7 +265,7 @@ ex1:
 output:
 huruf F
 
-### Latihab 23
+### Latihan 23
 
 Diinputkan nama rekan-rekan, cetak nama tersebut sebanyak 5 kali.
 ex:
@@ -278,7 +278,7 @@ Arnold
 Arnold
 Arnold
 
-### Latihab 24
+### Latihan 24
 
 Diinputkan nama rekan-rekan, cetak nama tersebut sebanyak inputan bilangan.
 ex:
