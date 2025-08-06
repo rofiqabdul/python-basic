@@ -1,5 +1,5 @@
 tabungan = int(input("masukan uang: "))
-belanja =[]
+belanja = []
 
 while tabungan >= 50_000:
     if tabungan >= 750_000:
@@ -18,7 +18,13 @@ while tabungan >= 50_000:
         belanja.append("kaos")
         tabungan -= 50_000
 
-for pakaian in belanja:
-    print(f"bangkit membeli {pakaian}")
+print("belanjaan - pcs")
 
-print(f"sisa tabungan {tabungan}")
+unique_belanja = set(belanja)
+
+for item in unique_belanja:
+    banyaknya = belanja.count(item)
+    print(f"bangkit beli - {item}: {banyaknya}")
+
+print(f"total items: {len(belanja)}")
+print(f"uang kembali: {tabungan}")

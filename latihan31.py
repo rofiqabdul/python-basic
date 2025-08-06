@@ -22,3 +22,4 @@ for pakaian in belanja:
     print(f"bangkit membeli {pakaian}")
 
 print(f"sisa tabungan {tabungan}")
+print(f"total items: {len(belanja)}")
