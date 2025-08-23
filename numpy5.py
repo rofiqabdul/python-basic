@@ -20,3 +20,10 @@ print(array_linspace)
 
 array_of_diagonal_matrix = np.diag([1,2,3,4,5])
 print(array_of_diagonal_matrix)
+
+arr = np.arange(1,31)
+middle_values = arr[10:20]
+median = np.median(middle_values)
+
+print(f"The middle 10 values are: {middle_values}")
+print(f"The median of these values is: {median}")
